@@ -242,16 +242,7 @@ class AdminLTE extends Component {
           <div className="wrapper">
             <header className="main-header">
               <Link className="logo" to={homeTo}>
-                <span className="logo-mini">
-                  <b>{titleShortBold}</b>
-                  {titleShotThin}
-                </span>
-                <span className="logo-lg">
-                  <b>
-                    {titleBold}
-                  </b>
-                  {titlethin}
-                </span>
+                tes
               </Link>
               <nav className="navbar navbar-static-top">
                 <div
